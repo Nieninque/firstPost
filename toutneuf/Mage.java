@@ -10,10 +10,18 @@ package toutneuf;
  * @author Formation
  */
 public class Mage extends Personnage{
+
+    public Mage(){};
     
     public void soigne(){
 
-        System.out.println("Je t'ai soigné !")
+        System.out.println("Je t'ai soigné !");
+
+    }
+
+    public void combattre(){
+
+        System.out.println("Meurt !");
 
     }
 

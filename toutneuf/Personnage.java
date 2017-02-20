@@ -10,5 +10,7 @@ package toutneuf;
  * @author Formation
  */
 public class Personnage {
+
+    public Personnage(){};
     
 }

@@ -10,6 +10,8 @@ package toutneuf;
  * @author Formation
  */
 public class Guerrier extends Personnage{
+
+    public Guerrier(){};
        
     public void combattre(){
         System.out.println("J'aime pas les gourdins, j'aime pas les gourdins");
