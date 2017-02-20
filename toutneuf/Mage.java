@@ -11,4 +11,10 @@ package toutneuf;
  */
 public class Mage extends Personnage{
     
+    public void soigne(){
+
+        System.out.println("Je t'ai soigné !")
+
+    }
+
 }
