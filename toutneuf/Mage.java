@@ -24,5 +24,10 @@ public class Mage extends Personnage{
         System.out.println("Meurt ! Salope");
 
     }
+    public void conflit(){
+
+        System.out.println("Je crée un conflit GIT");
+
+    }
 
 }
