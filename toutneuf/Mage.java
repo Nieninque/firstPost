@@ -21,7 +21,7 @@ public class Mage extends Personnage{
 
     public void combattre(){
 
-        System.out.println("Meurt !");
+        System.out.println("Meurt ! Salope");
 
     }
 
